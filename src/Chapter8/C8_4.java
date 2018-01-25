@@ -10,7 +10,6 @@ package Chapter8;
  * @author Daniel Anderson
  */
 public class C8_4 {
-
     /**
      * Main Method
      *
